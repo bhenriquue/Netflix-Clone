@@ -1,4 +1,4 @@
 # Netflix-Clone
 Clone da Netflix 
-Linguagens Usadas: HTML, CSS, JavaScript
-Framework: JQuery
+<br/>Linguagens Usadas: HTML, CSS, JavaScript
+<br/>Framework: JQuery
